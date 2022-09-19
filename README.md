@@ -1,6 +1,6 @@
 ### Hi 👋
 I'm a student of dept.Software (4th grade)<br>
-I'm interested in App Developers!
+I'm interested in Android Developers!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashpurple&show_icons=true&theme=nightowl)
 
