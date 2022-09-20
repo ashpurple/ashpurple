@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, there👋
 I'm a student of dept.Software (4th grade)<br>
 I'm interested in Android Developers!
 
